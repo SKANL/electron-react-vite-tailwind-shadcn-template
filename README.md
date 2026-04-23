@@ -1,4 +1,4 @@
-![Template screenshot](.github/assets/screenshot.png)
+![Template screenshot](/.github/assets/screenshot.png)
 
 <p align="center">
  <a href="#getting-started"><img alt="Get started" src="https://img.shields.io/badge/get%20started-fast-0f766e?style=for-the-badge"></a>
