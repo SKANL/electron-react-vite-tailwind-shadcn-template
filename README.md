@@ -1,10 +1,8 @@
-<p align="center">
-	<img src=".github/assets/screenshot.png" alt="Template screenshot" width="100%">
-</p>
+![Template screenshot](.github/assets/screenshot.png)
 
 <p align="center">
-	<a href="#getting-started"><img alt="Get started" src="https://img.shields.io/badge/get%20started-fast-0f766e?style=for-the-badge"></a>
-	<a href="#stack"><img alt="Stack" src="https://img.shields.io/badge/stack-electron%20%7C%20react%20%7C%20vite%20%7C%20tailwind%20%7C%20shadcn-1f2937?style=for-the-badge"></a>
+ <a href="#getting-started"><img alt="Get started" src="https://img.shields.io/badge/get%20started-fast-0f766e?style=for-the-badge"></a>
+ <a href="#stack"><img alt="Stack" src="https://img.shields.io/badge/stack-electron%20%7C%20react%20%7C%20vite%20%7C%20tailwind%20%7C%20shadcn-1f2937?style=for-the-badge"></a>
 </p>
 
 # Electron React Vite Tailwind shadcn Template
